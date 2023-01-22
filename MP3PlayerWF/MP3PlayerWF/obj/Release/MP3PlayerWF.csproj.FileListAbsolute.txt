@@ -1,0 +1,11 @@
+C:\С#\MP3PlayerWF\MP3PlayerWF\bin\Release\MP3PlayerWF.exe.config
+C:\С#\MP3PlayerWF\MP3PlayerWF\bin\Release\MP3PlayerWF.exe
+C:\С#\MP3PlayerWF\MP3PlayerWF\bin\Release\MP3PlayerWF.pdb
+C:\С#\MP3PlayerWF\MP3PlayerWF\obj\Release\MP3PlayerWF.Form2.resources
+C:\С#\MP3PlayerWF\MP3PlayerWF\obj\Release\MP3PlayerWF.Form1.resources
+C:\С#\MP3PlayerWF\MP3PlayerWF\obj\Release\MP3PlayerWF.Properties.Resources.resources
+C:\С#\MP3PlayerWF\MP3PlayerWF\obj\Release\MP3PlayerWF.csproj.GenerateResource.cache
+C:\С#\MP3PlayerWF\MP3PlayerWF\obj\Release\MP3PlayerWF.csproj.CoreCompileInputs.cache
+C:\С#\MP3PlayerWF\MP3PlayerWF\obj\Release\MP3PlayerWF.exe
+C:\С#\MP3PlayerWF\MP3PlayerWF\obj\Release\MP3PlayerWF.pdb
+C:\С#\MP3PlayerWF\MP3PlayerWF\obj\Release\MP3PlayerWF.csprojAssemblyReference.cache
